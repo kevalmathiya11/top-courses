@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/top-courses/static/css/main.ac9d64bc.css",
+    "main.js": "/top-courses/static/js/main.c03bdd1d.js",
+    "static/js/787.0e6d7be8.chunk.js": "/top-courses/static/js/787.0e6d7be8.chunk.js",
+    "index.html": "/top-courses/index.html",
+    "main.ac9d64bc.css.map": "/top-courses/static/css/main.ac9d64bc.css.map",
+    "main.c03bdd1d.js.map": "/top-courses/static/js/main.c03bdd1d.js.map",
+    "787.0e6d7be8.chunk.js.map": "/top-courses/static/js/787.0e6d7be8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9d64bc.css",
+    "static/js/main.c03bdd1d.js"
+  ]
+}
